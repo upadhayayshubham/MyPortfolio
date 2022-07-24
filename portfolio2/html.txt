@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <tittle>
+            Build a personal portfolio webpage
+        </tittle>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+                <nav id="navbar">
+                <a href="welcome-section" class="nav-link">Intro</a>
+                 <a href="about" class="nav-link">About</a>
+                <a href="work" class="nav-link">Work</a>  
+        <a href="contact" class="nav-link">Contact</a>         
+    </nav>
+        </header>
+        <main>
+            <section id="welcome section" class="anchor">
+                <h1>
+                    Hello i'am Shubham Upadhyay
+                </h1>
+                <p>Web Developer</p>
+            </section>  
+            <section id="about" class="anchor">
+                <h1>About Me</h1>
+                <p> Hello i'am  Web Developer eagerly waiting to work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable be as a fresh graduate to grow while fullfilling  organizational goals where I can bulid new projects and upgrade my skills.</p>
+            </section>
+            <section id="work" class="anchor">
+                <h1>Projects</h1>
+               <div id="projects-title">
+                   <a href=>
+
+                   </a>
+               </div> 
+            </section> 
+            <section id="contact" class="anchor">
+                <h2>Lets Work together</h2>
+                <div id="contacts-contents">
+                    <div id="github"><a href="https://github.com/upadhayayshubham" id="profile-link" target="blank" >Github</a>
+                    </div>
+                    <div id="email" >
+                        <a href="upadhayayshubham98@gmail.com" target="blank">Send a mail</a> 
+                    </div> 
+                    <div id="call me"><a href="phno:9989999259" target="blank">Callme</a> </div>
+                </div>
+
+            </section> 
+         </main>
+    </body>
+</html>
